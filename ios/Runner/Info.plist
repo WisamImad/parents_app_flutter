@@ -27,11 +27,11 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSCameraUsageDescription</key>
-	<string>Used to demonstrate image picker plugin</string>
+	<string>يحتاج التطبيق الوصول الى الكاميرا لكي ترسل صور الى اطفالك في الرسائل او في المهام</string>
 	<key>NSMicrophoneUsageDescription</key>
-	<string>Used to capture audio for image picker plugin</string>
+	<string>يحتاج التطبيق الوصول الى الميكروفون لتسجيل رسائل صوتية الى اطفالك في الرسائل او في المهام</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>Used to demonstrate image picker plugin</string>
+	<string>يحتاج التطبيق الوصول الى مكتبة الصور لكي ترسلها الى اطفالك في الرسائل او في المهام</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
